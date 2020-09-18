@@ -1,7 +1,7 @@
 {
-  "name": "customarcgiswidget",
-  "version": "1.0.0",
-  "description": "",
+  "name": "swipemanagerwidget",
+  "version": "1.0.2",
+  "description": "Arcgis Swipe widget with LayerList",
   "main": "index.js",
   "dependencies": {
     "@types/arcgis-js-api": "^4.16.0",
